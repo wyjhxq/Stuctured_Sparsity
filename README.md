@@ -4,4 +4,5 @@
 Install Gurobi: https://www.gurobi.com/ 
 
 ## How to run
-In MATLAB:>> PQN_Sturcuted_Sparsity
+In MATLAB:
+>> PQN_Sturcuted_Sparsity
